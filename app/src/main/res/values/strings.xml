@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3504180205 杨文俊</string>
+    <string name="btn">登录</string>
+    <string name="name">杨文俊 3504180205</string>
+    <string name="todo">TODO</string>
+    <string name="btnback">保存</string>
+    <string name="title">个人中心</string>
+    <string name="nocontain">暂无意义</string>
+</resources>
